@@ -144,9 +144,9 @@ Transformando ideias em software de verdade. 🚀
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-gsus&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-gsus&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gsus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gsus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -154,17 +154,17 @@ Transformando ideias em software de verdade. 🚀
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dev-gsus&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=dev-gsus&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Gráfico de Atividades
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dev-gsus&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-gsus&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
